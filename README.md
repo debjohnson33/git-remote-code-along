@@ -1,1 +1,1 @@
-Remote code along!
+Remote code along is awesome!
